@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vikaschauhan
+ *
+ */
+module designPatterns {
+}

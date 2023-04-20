@@ -1,0 +1,19 @@
+// Factory Design Pattern //
+
+Imagine you love playing with toy cars. 
+Sometimes you want a red car, and sometimes you want a blue car. 
+But instead of going to the toy store each time to buy a new car, 
+your mom gives you a "Car Factory".
+
+The Car Factory is a special machine that can make any kind of car you want, 
+just by telling it what color you want.
+
+This is like the Factory pattern in Java! 
+Instead of going to the store to get a new object each time, 
+we have a special "Factory" that can make any kind of object we want, 
+just by telling it what we want.
+
+//  Builder Design Pattern  //
+Instead of trying to create an object directly, 
+we have a special "Builder" class that helps us build the object exactly the way we want it.
+
